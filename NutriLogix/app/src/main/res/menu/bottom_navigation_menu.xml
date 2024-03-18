@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    android:background="@color/colorPrimaryDark">
+    <item
+        android:title="Stats"
+        android:id="@+id/stats"
+        android:icon="@drawable/info"/>
+    <item
+        android:title="Exercises"
+        android:id="@+id/exercises"
+        android:icon="@drawable/dumbell"/>
+    <item
+        android:title="Diet"
+        android:id="@+id/diet"
+        android:icon="@drawable/fork"/>
+    <item
+        android:title="Recipes"
+        android:id="@+id/recipes"
+        android:icon="@drawable/chef"/>
+    <item
+        android:title="Progress"
+        android:id="@+id/progress"
+        android:icon="@drawable/progress"/>
+</menu>

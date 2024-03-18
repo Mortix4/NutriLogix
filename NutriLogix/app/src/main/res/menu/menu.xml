@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:background="#D4E4F8">
+
+
+    <item
+        app:showAsAction="always"
+        android:title="back"
+        android:id="@+id/itBack"
+        android:icon="@drawable/back"
+        />
+
+    <item
+        android:title="exit app"
+        android:id="@+id/itExit"
+        />
+
+    <item
+        android:title="guide"
+        android:id="@+id/itGuide"
+        />
+</menu>
